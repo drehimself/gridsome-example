@@ -1,5 +1,6 @@
 ---
 title: Blog Post Three
+featuredImage: /uploads/puppy3.jpg
 ---
 
 # Blog Post Three

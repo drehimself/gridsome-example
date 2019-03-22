@@ -1,5 +1,6 @@
 ---
 title: Blog Post Two
+featuredImage: /uploads/puppy2.jpg
 ---
 
 # Blog Post Two
