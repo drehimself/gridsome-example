@@ -1,27 +1,25 @@
 ---
 title: Blog Post Four
-featuredImage: /uploads/puppy4.jpg
+featuredImage: /uploads/cat.jpg
 ---
-
 # Blog Post Four
 
-Content for **blog post four**. Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique tenetur esse quis exercitationem porro fugiat? Explicabo asperiores repellendus odit fuga delectus vel ducimus corporis laborum, totam officiis. Quos, autem quam.
+Changed Content for **blog post four**. Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique tenetur esse quis exercitationem porro fugiat? Explicabo asperiores repellendus odit fuga delectus vel ducimus corporis laborum, totam officiis. Quos, autem quam.
 
-*Italic*, **bold**, and `monospace`
+_Italic_, **bold**, and `monospace`
 
 ```js
 <script>
   const foo = 'bar';
   console.log(foo);
 </script>
-
 ```
 
 Itemized lists look like:
 
-  * this one
-  * that one
-  * the other one
+* this one
+* that one
+* the other one
 
 > Block quotes are
 > written like so.
